@@ -1,6 +1,6 @@
 <?php 
  
-// Load the database configuration file 
+// Load the database configuration file My Copy
 include_once 'dbConfig.php'; 
  
 // Fetch records from database 
